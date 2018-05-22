@@ -1,6 +1,8 @@
 <style>
 body{
 	
+	
+	
 	background-image: url("image/1.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
