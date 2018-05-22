@@ -6,6 +6,9 @@ body{
 	background-attachment: fixed;
 	background-position: center; 
 	background-color: #66c2ff;
+	
+	
+	
 }
 ul {
     list-style-type: none;
