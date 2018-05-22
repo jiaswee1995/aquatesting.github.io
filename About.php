@@ -5,7 +5,7 @@ session_start();
 
 <script>
 	
-	
+	   
 var status = "<?php echo $_SESSION['STATUS']; ?>";
 var username = "<?php echo $_SESSION['SESS_MEMBER_USERNAME'] ?>";
  window.onload = function () 
