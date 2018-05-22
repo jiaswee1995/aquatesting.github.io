@@ -6,6 +6,9 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
+	
+	
+	
 body{
 	
 	background-image: url("image/Beach1.jpg");
